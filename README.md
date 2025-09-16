@@ -1,11 +1,9 @@
+<div align="center">
+  <img height="400" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
+</div>
 <h1 align="center">Hey 👋What's Up?</h1>
 
-###
-
-<div align="center">
-  <img height="200" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
-</div>
-
+<hr>
 <div>
   <img align="left" height="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtnMjV3MHUwN3Q3M3I0ZWFnOWd3YmZ1em56azJoNXYyYXVraHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif"  />
   <img align="left" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ1d3Rsbmo0cnB6M2ZveGppaHpwdjJlMXU3a2Y1YXRwbm9kMGs2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif"  />
@@ -17,20 +15,19 @@
   <img align="left" height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN3d3IxM2trNjIwaW8zN2oyMDl4NmwxYWVnOHhwbW83dGZjam1zayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
 </div>
+<hr>
 
-<img align="right" height="200" src="assets/chuunibiyo-anime-boy.gif"  />
-
-###
+<img align="right" height="400" src="assets/chuunibiyo-anime-boy.gif"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TeytannZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TeytannZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<hr>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TeytannZ.TeytannZ&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TeytannZ.TeytannZ&" height="50px" />
 </div>
 
 ###
