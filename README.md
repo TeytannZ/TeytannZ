@@ -3,7 +3,7 @@
 <div align="center">
   <img height="400" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
 </div>
-<h3>Hi there 👋 I'm Teytann</h3>
+<h2>Hi there 👋 I'm Teytann</h2>
 
 🌱 **Self-learner & Solo Coder** | Computer Science Student  
 💻 **Focus:** Web Development, improving my **JavaScript** skills daily  
@@ -31,7 +31,7 @@
 
 <br>
 <div>
-  <h3>📊 GitHub Stats</h3>
+  <h2>📊 GitHub Stats</h2>
   <img align="right" height="400" src="assets/chuunibiyo-anime-boy.gif"  />
 
 ![Teytann's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeytannZ&show_icons=true&theme=radical)
