@@ -1,11 +1,16 @@
+<h3 align="left">👩‍💻  About Me</h3>
+
 <div align="center">
   <img height="400" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
 </div>
 <h1 align="center">Hey 👋What's Up?</h1>
 <br>
 
+<p align="left">I'm TeytannZ from HERE<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I Build some Projects</p>
+
 <hr>
 <br>
+<h3 align="left">🛠 Language and tools</h3>
 <div>
   <img align="left" height="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtnMjV3MHUwN3Q3M3I0ZWFnOWd3YmZ1em56azJoNXYyYXVraHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif"  />
   <img align="left" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ1d3Rsbmo0cnB6M2ZveGppaHpwdjJlMXU3a2Y1YXRwbm9kMGs2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif"  />
@@ -22,16 +27,19 @@
 
 <br>
 <div>
+  <h3 align="left">🔥   My Stats :</h3>
   <img align="right" height="400" src="assets/chuunibiyo-anime-boy.gif"  />
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TeytannZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TeytannZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   </div>
 </div>
 <br>
 <hr>
 
+<br>
+<br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TeytannZ.TeytannZ&" height="1000px" />
 </div>
