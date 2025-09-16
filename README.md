@@ -49,7 +49,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibiyo-anime-boy.gif)"  />
+  <img height="200" src="assets/chuunibyou-rikka-anime.gif"  />
 </div>
 
 ###
