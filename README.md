@@ -49,7 +49,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="assets/chuunibyou-rikka-anime.gif"  />
+  <img height="200" src="assets/chuunibiyo-anime-boy.gif"  />
 </div>
 
 ###
