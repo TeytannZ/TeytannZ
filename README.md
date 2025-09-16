@@ -3,7 +3,7 @@
 <div align="center">
   <img height="400" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
 </div>
-### Hi there 👋 I'm Teytann
+<h3>Hi there 👋 I'm Teytann</h3>
 
 🌱 **Self-learner & Solo Coder** | Computer Science Student  
 💻 **Focus:** Web Development, improving my **JavaScript** skills daily  
@@ -14,7 +14,7 @@
 ✨ Always curious. Always learning. Always creating.
 <hr>
 <br>
-### ⚡ Tech Stack
+<h3>⚡ Tech Stack</h3>
 <div>
   <img align="left" height="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtnMjV3MHUwN3Q3M3I0ZWFnOWd3YmZ1em56azJoNXYyYXVraHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif"  />
   <img align="left" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ1d3Rsbmo0cnB6M2ZveGppaHpwdjJlMXU3a2Y1YXRwbm9kMGs2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif"  />
@@ -31,11 +31,10 @@
 
 <br>
 <div>
-  ### 📊 GitHub Stats
+  <h3>📊 GitHub Stats</h3>
+  <img align="right" height="400" src="assets/chuunibiyo-anime-boy.gif"  />
 
 ![Teytann's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeytannZ&show_icons=true&theme=radical)
-
-  <img align="right" height="400" src="assets/chuunibiyo-anime-boy.gif"  />
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TeytannZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
