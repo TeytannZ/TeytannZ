@@ -1,7 +1,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <div align="center">
-  <img height="400" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
+  <img height="800" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
 </div>
 <h2>Hi there <img height="40px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtrN2xoNW9hbGl6MHlkeXA5N2FwZTdjY3MxaXdteDZteTJ0NTB0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif"> I'm Teytann</h2>
 
