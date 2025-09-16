@@ -31,20 +31,19 @@
   <img align="right" height="400" src="assets/chuunibiyo-anime-boy.gif"  />
 
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TeytannZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   </div>
 </div>
 <br>
-<hr>
 
 <br>
 <br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TeytannZ.TeytannZ&" height="1000px" />
 </div>
+<br>
+<hr>
 
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
