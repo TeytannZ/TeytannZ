@@ -1,12 +1,11 @@
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
 <div align="center">
   <img height="500" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif" />
 </div>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<hr>
 <hr>
 ###
 
@@ -34,12 +33,7 @@
 
 <img align="left" height="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN3d3IxM2trNjIwaW8zN2oyMDl4NmwxYWVnOHhwbW83dGZjam1zayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-</div>
+<hr>
 
 ###
 
@@ -47,12 +41,6 @@
 
 <div align="center">
   <img height="400" src="assets/chuunibiyo-anime-boy.gif" />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
 </div>
 
 ###
