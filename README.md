@@ -1,6 +1,3 @@
-<img src="assets/chuunibyou-rikka-anime.gif" width="600"/>
-<h1 align="center">Hey 👋What's Up?</h1>
-
 ###
 
 <div align="center">
