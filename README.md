@@ -1,9 +1,9 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="left">👩‍💻  About Me</h1>
 
 <div align="center">
   <img height="800" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
 </div>
-<h2>Hi there <img height="40px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtrN2xoNW9hbGl6MHlkeXA5N2FwZTdjY3MxaXdteDZteTJ0NTB0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif"> I'm Teytann</h2>
+<h1>Hi there <img height="60px" style="transform:translateY(20px)" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtrN2xoNW9hbGl6MHlkeXA5N2FwZTdjY3MxaXdteDZteTJ0NTB0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif"> I'm Teytann</h1>
 
 🌱 **Self-learner & Solo Coder** | Computer Science Student  
 💻 **Focus:** Web Development, improving my **JavaScript** skills daily  
@@ -14,7 +14,7 @@
 ✨ Always curious. Always learning. Always creating.
 <hr>
 <br>
-<h3>⚡ Tech Stack</h3>
+<h1>⚡ Tech Stack</h1>
 <div>
   <img align="left" height="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtnMjV3MHUwN3Q3M3I0ZWFnOWd3YmZ1em56azJoNXYyYXVraHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif"  />
   <img align="left" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ1d3Rsbmo0cnB6M2ZveGppaHpwdjJlMXU3a2Y1YXRwbm9kMGs2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif"  />
@@ -31,7 +31,7 @@
 
 <br>
 <div>
-  <h2>📊 GitHub Stats</h2>
+  <h1>📊 GitHub Stats</h1>
   <img align="left" height="400" src="assets/chuunibiyo-anime-boy.gif"  />
 
 ![Teytann's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeytannZ&show_icons=true&theme=radical)
