@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/main/assets/chuunibyou-rikka-anime.gif" width="600"/>
+<img src="assets/chuunibyou-rikka-anime.gif" width="600"/>
