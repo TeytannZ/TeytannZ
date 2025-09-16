@@ -45,3 +45,8 @@
 </div>
 
 ###
+<!-- For canvas -->
+<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=TeytannZ&platform=github" 
+    width="800" height="600" frameborder="0"></iframe>
+<!-- For SVG -->
+<img src="https://pacman.abozanona.me?username=TeytannZ" />
