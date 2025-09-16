@@ -1,7 +1,7 @@
-<div align="center">
-  <img width="100%" src="assets/ohwell-anime.gif"/>
-</div>
-<h1>Hi there <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRiMzRxbXphdmg1OXdoOTdxNDkxOXUxNmw3anFlMjl3NjZ5c2E5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" height="50"> I'm Teytann <img src="assets/wave-hi.gif" height="100"> </h1>
+  <img align="center" width="100%" src="assets/ohwell-anime.gif"/>
+<hr>
+
+<h1 align="center">Hi there <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRiMzRxbXphdmg1OXdoOTdxNDkxOXUxNmw3anFlMjl3NjZ5c2E5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" height="50"> I'm Teytann <img src="assets/wave-hi.gif" height="100"> </h1>
 
 <table border="0">
 <tr>
@@ -28,7 +28,7 @@
 <hr>
 <br>
 <h1>⚡ Tech Stack</h1>
-<div>
+<div align="center">
   <img align="left" height="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtnMjV3MHUwN3Q3M3I0ZWFnOWd3YmZ1em56azJoNXYyYXVraHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif"  />
   <img align="left" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ1d3Rsbmo0cnB6M2ZveGppaHpwdjJlMXU3a2Y1YXRwbm9kMGs2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif"  />
   <img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2E4YmtxejR3OGppZ2NiNzV3b3MxeXh0ejVwY2Iyc29rbjE1cmI5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif"  />
@@ -72,7 +72,9 @@
 
 
 <div align="center">
-    <img href="https://discord.com/users/Teytann" target="_blank" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  <a href="https://discord.com/users/Teytann" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>  
   
   <a href="mailto:teytannz@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
