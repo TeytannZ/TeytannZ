@@ -3,7 +3,7 @@
 <div align="center">
   <img height="800" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
 </div>
-<h1>Hi there <img src="[assets/wave-hi.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRiMzRxbXphdmg1OXdoOTdxNDkxOXUxNmw3anFlMjl3NjZ5c2E5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif)" height="80"> I'm Teytann</h1> <img src="assets/wave-hi.gif" height="80">
+<h1>Hi there <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRiMzRxbXphdmg1OXdoOTdxNDkxOXUxNmw3anFlMjl3NjZ5c2E5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" height="80"> I'm Teytann <img src="assets/wave-hi.gif" height="80"> </h1>
 
 🌱 **Self-learner & Solo Coder** | Computer Science Student  
 💻 **Focus:** Web Development, improving my **JavaScript** skills daily  
