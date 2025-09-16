@@ -1,39 +1,20 @@
-<h1 align="left">👩‍💻  About Me</h1>
-
-<!-- Full-width banner -->
 <div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/main/assets/chuunibyou-rikka-anime.gif" />
+  <img width="100%" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
+</div>
+<h1>Hi there <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRiMzRxbXphdmg1OXdoOTdxNDkxOXUxNmw3anFlMjl3NjZ5c2E5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" height="50"> I'm Teytann <img src="assets/wave-hi.gif" height="100"> </h1>
+
+<div align="right">
+  <img height="800" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
 </div>
 
-<!-- Two-column section: text left, image right -->
-<table>
-<tr>
-<td>
-
-### Hi there <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRiMzRxbXphdmg1OXdoOTdxNDkxOXUxNmw3anFlMjl3NjZ5c2E5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" height="50"> I'm Teytann <img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/main/assets/wave-hi.gif" height="50">
-
-🌱 **Self-learner & Solo Coder** | Computer Science Student  
-💻 **Focus:** Web Development, improving my **JavaScript** skills daily  
-🎨 **Hobbies:** Painting, drawing, and exploring creative coding  
-🚀 **Goal:** Build cool web projects while learning and growing  
-📫 **Contact me:** [GitHub](https://github.com/TeytannZ) | [Email](mailto:your.email@gmail.com)
-
-✨ Always curious. Always learning. Always creating.
-
-</td>
-<td>
-
-<img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/main/assets/chuunibyou-rikka-anime-portrait.gif" height="300" />
-
-</td>
-</tr>
-</table>
-
-<!-- Social/contact icons -->
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  🌱 **Self-learner & Solo Coder** | Computer Science Student  
+  💻 **Focus:** Web Development, improving my **JavaScript** skills daily  
+  🎨 **Hobbies:** Painting, drawing, and exploring creative coding  
+  🚀 **Goal:** Build cool web projects while learning and growing  
+  📫 **Contact me:** [GitHub](https://github.com/TeytannZ) | [Email](mailto:your.email@gmail.com)
+  
+  ✨ Always curious. Always learning. Always creating.
 </div>
 
 <hr>
