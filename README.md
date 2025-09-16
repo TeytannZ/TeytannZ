@@ -45,8 +45,8 @@
 </div>
 
 ###
-<!-- For canvas -->
-<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=TeytannZ&platform=github" 
-    width="800" height="600" frameborder="0"></iframe>
-<!-- For SVG -->
-<img src="https://pacman.abozanona.me?username=TeytannZ" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
