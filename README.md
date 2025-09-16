@@ -3,14 +3,18 @@
 <div align="center">
   <img height="400" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
 </div>
-<h1 align="center">Hey 👋What's Up?</h1>
-<br>
+### Hi there 👋 I'm Teytann
 
-<p align="left">I'm TeytannZ from HERE<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I Build some Projects</p>
+🌱 **Self-learner & Solo Coder** | Computer Science Student  
+💻 **Focus:** Web Development, improving my **JavaScript** skills daily  
+🎨 **Hobbies:** Painting, drawing, and exploring creative coding  
+🚀 **Goal:** Build cool web projects while learning and growing  
+📫 **Contact me:** [GitHub](https://github.com/TeytannZ) | [Email](mailto:your.email@gmail.com)
 
+✨ Always curious. Always learning. Always creating.
 <hr>
 <br>
-<h3 align="left">🛠 Language and tools</h3>
+### ⚡ Tech Stack
 <div>
   <img align="left" height="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtnMjV3MHUwN3Q3M3I0ZWFnOWd3YmZ1em56azJoNXYyYXVraHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif"  />
   <img align="left" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ1d3Rsbmo0cnB6M2ZveGppaHpwdjJlMXU3a2Y1YXRwbm9kMGs2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif"  />
@@ -27,7 +31,10 @@
 
 <br>
 <div>
-  <h3 align="left">🔥   My Stats :</h3>
+  ### 📊 GitHub Stats
+
+![Teytann's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeytannZ&show_icons=true&theme=radical)
+
   <img align="right" height="400" src="assets/chuunibiyo-anime-boy.gif"  />
 
   <div align="center">
