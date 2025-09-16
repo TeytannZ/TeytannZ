@@ -32,7 +32,7 @@
 <br>
 <div>
   <h2>📊 GitHub Stats</h2>
-  <img align="right" height="400" src="assets/chuunibiyo-anime-boy.gif"  />
+  <img align="left" height="400" src="assets/chuunibiyo-anime-boy.gif"  />
 
 ![Teytann's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeytannZ&show_icons=true&theme=radical)
 
