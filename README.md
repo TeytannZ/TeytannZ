@@ -1,21 +1,29 @@
 <div align="center">
-  <img width="100%" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
+  <img width="100%" src="assets/ohwell-anime.gif"/>
 </div>
 <h1>Hi there <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRiMzRxbXphdmg1OXdoOTdxNDkxOXUxNmw3anFlMjl3NjZ5c2E5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" height="50"> I'm Teytann <img src="assets/wave-hi.gif" height="100"> </h1>
 
-<div align="right">
-  <img height="800" src="https://github.com/TeytannZ/TeytannZ/blob/main/assets/chuunibyou-rikka-anime.gif"  />
-</div>
+<table border="1">
+<tr>
+<td>
 
-<div align="left">
-  🌱 **Self-learner & Solo Coder** | Computer Science Student  
-  💻 **Focus:** Web Development, improving my **JavaScript** skills daily  
-  🎨 **Hobbies:** Painting, drawing, and exploring creative coding  
-  🚀 **Goal:** Build cool web projects while learning and growing  
-  📫 **Contact me:** [GitHub](https://github.com/TeytannZ) | [Email](mailto:your.email@gmail.com)
-  
-  ✨ Always curious. Always learning. Always creating.
-</div>
+🌱 <b>Self-learner & Solo Coder</b> | Computer Science Student  
+💻 <b>Focus:</b> Web Development, improving my **JavaScript** skills daily  
+🎨 <b>Hobbies:</b> Painting, drawing, and exploring creative coding  
+🚀 <b>Goal:</b> Build cool web projects while learning and growing  
+📫 <b>Contact Me:</b> [GitHub](https://github.com/TeytannZ) | [Email](mailto:your.email@gmail.com)
+
+✨ Always curious. Always learning. Always creating.
+
+</td>
+<td>
+
+<img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/main/assets/chuunibyou-rikka-anime.gif" height="400" />
+
+</td>
+</tr>
+</table>
+
 
 <hr>
 <br>
