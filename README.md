@@ -3,7 +3,7 @@
 </div>
 <h1>Hi there <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRiMzRxbXphdmg1OXdoOTdxNDkxOXUxNmw3anFlMjl3NjZ5c2E5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" height="50"> I'm Teytann <img src="assets/wave-hi.gif" height="100"> </h1>
 
-<table border="1">
+<table border="0">
 <tr>
 <td>
 
@@ -68,3 +68,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
+<div align="left">
+  <a href="https://discord.com/users/Teytann" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  
+  <a href="mailto:teytannz@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BCh2WbyNTTUeu63fjf%2BOqmw%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+</div>
