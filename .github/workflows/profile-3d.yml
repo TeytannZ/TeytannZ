@@ -1,0 +1,23 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # Updates daily at 18:00 UTC (adjust if needed for your timezone)
+    - cron: "0 18 * * *"
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: TeytannZ
+          SETTING_JSON: |
+            {
+              "type": "normal",
+              "max_repos": 100,
+              "exclude_repo": []
+            }
