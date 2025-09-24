@@ -1,3 +1,7 @@
+<img src="assets/Profile-finito-gif.gif">
+
+
+
 ## 🎯 GitHub Contribution 3D Graph
 
 ![](./profile-3d-contrib/profile-night-view.svg)
