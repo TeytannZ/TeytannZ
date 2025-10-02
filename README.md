@@ -401,7 +401,7 @@ so let each look carefully at whom they befriend."**
     <img height="130px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGhwaG5lZGIzdGZvc2EwYjc3ZmM5angzaWp2NHNtMGs2cjcydTNoaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XyDkWE5lRElx73hgwg/giphy.gif" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BCh2WbyNTTUeu63fjf%2BOqmw%3D%3D" target="_blank">
+  <a href="www.linkedin.com/in/z-ahmed-555239368" target="_blank">
     <img height="130px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTQ5b2p6ZmI1a3I2M2JqbXZ2bnA3a3U3cHJ1bmJncnYwOHFqZjRucCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QhPL2mdDVzeuHiRcIw/giphy.gif" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
