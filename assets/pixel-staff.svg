@@ -1,0 +1,89 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <radialGradient id="magicGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FF00FF;stop-opacity:1">
+        <animate attributeName="stop-opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#9370DB;stop-opacity:0">
+        <animate attributeName="stop-opacity" values="0;0.3;0" dur="2s" repeatCount="indefinite"/>
+      </stop>
+    </radialGradient>
+  </defs>
+  
+  <style>
+    @keyframes sparkle {
+      0%, 100% { opacity: 0; }
+      50% { opacity: 1; }
+    }
+    @keyframes rotate {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    .orb { animation: rotate 4s linear infinite; transform-origin: center; }
+    .sparkle { animation: sparkle 1.5s ease-in-out infinite; }
+  </style>
+  
+  <!-- Staff Handle -->
+  <g transform="translate(25, 10)">
+    <!-- Wood texture -->
+    <rect x="-2" y="15" width="4" height="30" fill="#8B4513"/>
+    <rect x="-1" y="15" width="2" height="30" fill="#A0522D"/>
+    <line x1="-2" y1="20" x2="2" y2="20" stroke="#654321" stroke-width="0.5"/>
+    <line x1="-2" y1="28" x2="2" y2="28" stroke="#654321" stroke-width="0.5"/>
+    <line x1="-2" y1="36" x2="2" y2="36" stroke="#654321" stroke-width="0.5"/>
+  </g>
+  
+  <!-- Magic Orb at top -->
+  <g class="orb" transform="translate(25, 15)">
+    <!-- Glow effect -->
+    <circle cx="0" cy="0" r="8" fill="url(#magicGlow)" opacity="0.6"/>
+    
+    <!-- Crystal facets -->
+    <polygon points="0,-6 3,-3 0,0" fill="#FF00FF"/>
+    <polygon points="0,-6 -3,-3 0,0" fill="#9370DB"/>
+    <polygon points="3,-3 6,0 3,3" fill="#DA70D6"/>
+    <polygon points="-3,-3 -6,0 -3,3" fill="#8A2BE2"/>
+    <polygon points="0,6 3,3 0,0" fill="#FF00FF"/>
+    <polygon points="0,6 -3,3 0,0" fill="#9370DB"/>
+    
+    <!-- Center gem -->
+    <circle cx="0" cy="0" r="2" fill="#FFFFFF" opacity="0.8"/>
+    
+    <!-- Rotating runes -->
+    <text x="-3" y="-10" font-size="4" fill="#FFD700" opacity="0.8">✦</text>
+    <text x="5" y="-5" font-size="4" fill="#FFD700" opacity="0.8">✦</text>
+    <text x="5" y="5" font-size="4" fill="#FFD700" opacity="0.8">✦</text>
+    <text x="-3" y="10" font-size="4" fill="#FFD700" opacity="0.8">✦</text>
+    <text x="-8" y="2" font-size="4" fill="#FFD700" opacity="0.8">✦</text>
+  </g>
+  
+  <!-- Magical particles -->
+  <g class="sparkle">
+    <circle cx="15" cy="10" r="1" fill="#FF00FF">
+      <animate attributeName="cy" values="10;5;10" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <g class="sparkle" style="animation-delay: 0.5s">
+    <circle cx="35" cy="12" r="1" fill="#DA70D6">
+      <animate attributeName="cy" values="12;7;12" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <g class="sparkle" style="animation-delay: 1s">
+    <circle cx="25" cy="8" r="1" fill="#9370DB">
+      <animate attributeName="cy" values="8;3;8" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Energy waves -->
+  <circle cx="25" cy="15" r="10" fill="none" stroke="#FF00FF" stroke-width="0.5" opacity="0.4">
+    <animate attributeName="r" values="10;15;10" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="25" cy="15" r="12" fill="none" stroke="#9370DB" stroke-width="0.5" opacity="0.3">
+    <animate attributeName="r" values="12;18;12" dur="3s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="opacity" values="0.3;0;0.3" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+</svg>
