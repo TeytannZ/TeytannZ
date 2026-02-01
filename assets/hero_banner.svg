@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 900 340" width="900" height="340">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+  * { margin:0; padding:0; box-sizing:border-box; }
+  .root {
+    width:900px; height:340px;
+    background: #0a0a1a;
+    font-family: 'Press Start 2P', monospace;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+  }
+  /* Starfield */
+  .star { position:absolute; background:#fff; border-radius:0; }
+  .s1 { width:2px;height:2px; top:8%;left:12%; animation:tw 2.8s ease-in-out 0s infinite alternate; }
+  .s2 { width:2px;height:2px; top:15%;left:78%; animation:tw 3.2s ease-in-out 0.5s infinite alternate; }
+  .s3 { width:3px;height:3px; top:5%;left:45%; animation:tw 2.5s ease-in-out 1s infinite alternate; box-shadow:0 0 4px #fff; }
+  .s4 { width:2px;height:2px; top:22%;left:30%; animation:tw 3.8s ease-in-out 0.2s infinite alternate; }
+  .s5 { width:2px;height:2px; top:70%;left:88%; animation:tw 2.9s ease-in-out 1.2s infinite alternate; }
+  .s6 { width:3px;height:3px; top:75%;left:15%; animation:tw 3.5s ease-in-out 0.8s infinite alternate; box-shadow:0 0 5px #fff; }
+  .s7 { width:2px;height:2px; top:85%;left:55%; animation:tw 2.6s ease-in-out 0.3s infinite alternate; }
+  .s8 { width:2px;height:2px; top:60%;left:5%; animation:tw 3.1s ease-in-out 1.5s infinite alternate; }
+  .s9 { width:2px;height:2px; top:40%;left:92%; animation:tw 2.7s ease-in-out 0.7s infinite alternate; }
+  .s10{ width:3px;height:3px; top:30%;left:65%; animation:tw 3.3s ease-in-out 0.4s infinite alternate; box-shadow:0 0 4px #fff; }
+  .s11{ width:2px;height:2px; top:50%;left:40%; animation:tw 2.4s ease-in-out 1.8s infinite alternate; }
+  .s12{ width:2px;height:2px; top:12%;left:58%; animation:tw 3.6s ease-in-out 0.9s infinite alternate; }
+  .s13{ width:2px;height:2px; top:88%;left:72%; animation:tw 2.8s ease-in-out 1.1s infinite alternate; }
+  .s14{ width:3px;height:3px; top:55%;left:22%; animation:tw 3.0s ease-in-out 0.6s infinite alternate; box-shadow:0 0 4px #fff; }
+  .s15{ width:2px;height:2px; top:18%;left:85%; animation:tw 2.5s ease-in-out 2.0s infinite alternate; }
+  .s16{ width:2px;height:2px; top:65%;left:48%; animation:tw 3.4s ease-in-out 0.1s infinite alternate; }
+  .s17{ width:2px;height:2px; top:78%;left:35%; animation:tw 2.9s ease-in-out 1.3s infinite alternate; }
+  .s18{ width:3px;height:3px; top:42%;left:10%; animation:tw 3.7s ease-in-out 0.5s infinite alternate; box-shadow:0 0 5px #fff; }
+  .s19{ width:2px;height:2px; top:25%;left:50%; animation:tw 2.6s ease-in-out 1.6s infinite alternate; }
+  .s20{ width:2px;height:2px; top:92%;left:8%; animation:tw 3.1s ease-in-out 0.8s infinite alternate; }
+  @keyframes tw { from{opacity:0.15} to{opacity:1} }
+
+  /* Cyan pixel particles floating up */
+  .ptcl { position:absolute; width:4px; height:4px; opacity:0; }
+  .p1 { background:#00d9ff; top:80%;left:18%; animation:pfloat 5s ease-out 0s infinite; }
+  .p2 { background:#ff7b72; top:75%;left:82%; animation:pfloat 6s ease-out 1.5s infinite; width:6px;height:6px; }
+  .p3 { background:#a5f3fc; top:85%;left:50%; animation:pfloat 4.5s ease-out 3s infinite; }
+  .p4 { background:#00d9ff; top:70%;left:35%; animation:pfloat 7s ease-out 2s infinite; width:3px;height:3px; }
+  .p5 { background:#ff7b72; top:90%;left:65%; animation:pfloat 5.5s ease-out 0.8s infinite; width:3px;height:3px; }
+  @keyframes pfloat { 0%{transform:translateY(0);opacity:0} 10%{opacity:0.9} 80%{opacity:0.3} 100%{transform:translateY(-180px);opacity:0} }
+
+  /* Character frame */
+  .char-wrap {
+    position: relative;
+    width:140px; height:140px;
+    display:flex; align-items:center; justify-content:center;
+  }
+  .char-frame {
+    position:absolute; inset:0;
+    border: 4px solid #00d9ff;
+    background: linear-gradient(135deg, #0f1a2e 0%, #1a0a2e 100%);
+    box-shadow: 0 0 0 4px #0a0a1a, 0 0 0 8px #00d9ff, 0 0 30px rgba(0,217,255,0.35);
+    animation: fglow 2.5s ease-in-out infinite alternate;
+  }
+  @keyframes fglow {
+    from { box-shadow: 0 0 0 4px #0a0a1a, 0 0 0 8px #00d9ff, 0 0 18px rgba(0,217,255,0.2); }
+    to   { box-shadow: 0 0 0 4px #0a0a1a, 0 0 0 8px #00d9ff, 0 0 50px rgba(0,217,255,0.5), 0 0 80px rgba(0,217,255,0.15); }
+  }
+  /* Pixel character (CSS drawn) */
+  .char { position:relative; width:80px; height:96px; z-index:1; animation:idle 0.8s steps(2) infinite; }
+  @keyframes idle { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-2px)} }
+  .px { position:absolute; image-rendering:pixelated; }
+
+  /* Name */
+  .name {
+    font-size:18px; color:#00d9ff;
+    text-shadow: 0 0 16px #00d9ff, 0 0 40px rgba(0,217,255,0.4);
+    animation: nflick 4s ease-in-out infinite alternate;
+    position:relative; z-index:1;
+    letter-spacing:2px;
+  }
+  @keyframes nflick { 0%,88%,100%{opacity:1} 92%{opacity:0.7} 96%{opacity:0.9} }
+
+  /* Title lines */
+  .titles { text-align:center; position:relative; z-index:1; }
+  .titles div { font-size:7px; color:#ff7b72; text-shadow:0 0 8px rgba(255,123,114,0.5); line-height:2.4; }
+
+  /* XP Bar */
+  .xp-wrap { position:relative; z-index:1; width:380px; text-align:center; }
+  .xp-lbl { font-size:6px; color:#00d9ff; text-shadow:0 0 6px #00d9ff; margin-bottom:5px; }
+  .xp-bg { width:100%; height:14px; background:#1a1a2e; border:2px solid #00d9ff; position:relative; overflow:hidden; }
+  .xp-fill {
+    height:100%; width:73%;
+    background: linear-gradient(90deg, #00d9ff, #00ffcc);
+    box-shadow: 0 0 10px #00d9ff;
+    position:relative;
+    animation: xpglow 2s ease-in-out infinite alternate;
+  }
+  @keyframes xpglow { from{box-shadow:0 0 8px #00d9ff} to{box-shadow:0 0 20px #00d9ff, 0 0 40px rgba(0,217,255,0.3)} }
+  .xp-fill::after {
+    content:'';position:absolute;inset:0;
+    background: repeating-linear-gradient(90deg, transparent 0px, transparent 12px, rgba(0,0,0,0.25) 12px, rgba(0,0,0,0.25) 14px);
+  }
+  .xp-shine {
+    position:absolute;inset:0;
+    background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.18) 50%, transparent 100%);
+    animation: shine 2.4s ease-in-out infinite;
+  }
+  @keyframes shine { 0%{transform:translateX(-100%)} 100%{transform:translateX(100%)} }
+
+  /* Cursor blink */
+  .cursor { display:inline-block; width:9px; height:16px; background:#00d9ff; margin-left:3px; vertical-align:middle; animation:blk 1s steps(1) infinite; }
+  @keyframes blk { 0%,100%{opacity:1} 50%{opacity:0} }
+</style>
+
+<div class="root">
+  <!-- Stars -->
+  <div class="star s1"></div><div class="star s2"></div><div class="star s3"></div>
+  <div class="star s4"></div><div class="star s5"></div><div class="star s6"></div>
+  <div class="star s7"></div><div class="star s8"></div><div class="star s9"></div>
+  <div class="star s10"></div><div class="star s11"></div><div class="star s12"></div>
+  <div class="star s13"></div><div class="star s14"></div><div class="star s15"></div>
+  <div class="star s16"></div><div class="star s17"></div><div class="star s18"></div>
+  <div class="star s19"></div><div class="star s20"></div>
+  <!-- Particles -->
+  <div class="ptcl p1"></div><div class="ptcl p2"></div><div class="ptcl p3"></div>
+  <div class="ptcl p4"></div><div class="ptcl p5"></div>
+
+  <!-- Character -->
+  <div class="char-wrap">
+    <div class="char-frame"></div>
+    <div class="char">
+      <!-- Pixel art character via colored divs -->
+      <!-- Hair -->
+      <div class="px" style="background:#00d9ff;width:48px;height:8px;top:0;left:16px"></div>
+      <div class="px" style="background:#00d9ff;width:8px;height:8px;top:8px;left:8px"></div>
+      <div class="px" style="background:#00d9ff;width:8px;height:8px;top:8px;left:64px"></div>
+      <!-- Face -->
+      <div class="px" style="background:#f5c5a3;width:48px;height:24px;top:8px;left:16px"></div>
+      <!-- Eyes -->
+      <div class="px" style="background:#111;width:10px;height:10px;top:14px;left:22px"></div>
+      <div class="px" style="background:#111;width:10px;height:10px;top:14px;left:48px"></div>
+      <!-- Eye shine -->
+      <div class="px" style="background:#fff;width:4px;height:4px;top:16px;left:28px"></div>
+      <div class="px" style="background:#fff;width:4px;height:4px;top:16px;left:54px"></div>
+      <!-- Smile -->
+      <div class="px" style="background:#c0392b;width:20px;height:4px;top:28px;left:30px"></div>
+      <!-- Neck -->
+      <div class="px" style="background:#f5c5a3;width:12px;height:6px;top:32px;left:34px"></div>
+      <!-- Body hoodie -->
+      <div class="px" style="background:#00d9ff;width:48px;height:28px;top:38px;left:16px"></div>
+      <div class="px" style="background:#00d9ff;width:8px;height:20px;top:42px;left:8px"></div>
+      <div class="px" style="background:#00d9ff;width:8px;height:20px;top:42px;left:64px"></div>
+      <!-- Hood detail -->
+      <div class="px" style="background:#0099b3;width:32px;height:6px;top:38px;left:24px"></div>
+      <!-- Pocket -->
+      <div class="px" style="background:#0099b3;width:24px;height:12px;top:52px;left:28px"></div>
+      <!-- Legs -->
+      <div class="px" style="background:#2c3e50;width:12px;height:18px;top:66px;left:20px"></div>
+      <div class="px" style="background:#2c3e50;width:12px;height:18px;top:66px;left:48px"></div>
+      <!-- Shoes -->
+      <div class="px" style="background:#1a1a2e;width:16px;height:6px;top:84px;left:16px"></div>
+      <div class="px" style="background:#1a1a2e;width:16px;height:6px;top:84px;left:48px"></div>
+      <!-- Hands -->
+      <div class="px" style="background:#f5c5a3;width:6px;height:6px;top:48px;left:4px"></div>
+      <div class="px" style="background:#f5c5a3;width:6px;height:6px;top:48px;left:70px"></div>
+    </div>
+  </div>
+
+  <!-- Name -->
+  <div class="name">⚔ TEYTANN <span class="cursor"></span></div>
+
+  <!-- Titles -->
+  <div class="titles">
+    <div>▸ COMPUTER SCIENCE STUDENT</div>
+    <div>▸ FRONTEND DEVELOPER</div>
+    <div>▸ SELF-LEARNER &amp; SOLO CODER</div>
+    <div>▸ ALWAYS CREATING ✦ ALWAYS LEARNING</div>
+  </div>
+
+  <!-- XP Bar -->
+  <div class="xp-wrap">
+    <div class="xp-lbl">⟡ ADVENTURE PROGRESS — LVL 12 → LVL 13</div>
+    <div class="xp-bg">
+      <div class="xp-fill">
+        <div class="xp-shine"></div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</foreignObject>
+</svg>

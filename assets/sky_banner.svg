@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 900 100" width="900" height="100">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+  * { margin:0; padding:0; box-sizing:border-box; }
+  .root {
+    width:900px; height:100px;
+    background: linear-gradient(180deg, #0d0518 0%, #1a0a2e 50%, #2a1545 100%);
+    font-family:'Press Start 2P',monospace;
+    position:relative; overflow:hidden;
+    display:flex; align-items:center; justify-content:center;
+  }
+  /* Stars */
+  .star { position:absolute; background:#fff; border-radius:50%; }
+  .st1{width:2px;height:2px;top:12%;left:8%;animation:tw 2.8s ease-in-out 0s infinite alternate;}
+  .st2{width:2px;height:2px;top:22%;left:25%;animation:tw 3.2s ease-in-out 0.6s infinite alternate;}
+  .st3{width:3px;height:3px;top:8%;left:42%;animation:tw 2.5s ease-in-out 1.2s infinite alternate;box-shadow:0 0 4px #fff4a3;}
+  .st4{width:2px;height:2px;top:30%;left:60%;animation:tw 3.5s ease-in-out 0.3s infinite alternate;}
+  .st5{width:2px;height:2px;top:15%;left:78%;animation:tw 2.9s ease-in-out 1.8s infinite alternate;}
+  .st6{width:3px;height:3px;top:45%;left:12%;animation:tw 3.1s ease-in-out 0.9s infinite alternate;box-shadow:0 0 4px #fff4a3;}
+  .st7{width:2px;height:2px;top:35%;left:88%;animation:tw 2.7s ease-in-out 0.4s infinite alternate;}
+  .st8{width:2px;height:2px;top:55%;left:48%;animation:tw 3.3s ease-in-out 1.5s infinite alternate;}
+  .st9{width:2px;height:2px;top:20%;left:55%;animation:tw 2.6s ease-in-out 2.1s infinite alternate;}
+  .st10{width:3px;height:3px;top:40%;left:72%;animation:tw 3.0s ease-in-out 0.7s infinite alternate;box-shadow:0 0 4px #fff4a3;}
+  .st11{width:2px;height:2px;top:65%;left:20%;animation:tw 2.8s ease-in-out 1.0s infinite alternate;}
+  .st12{width:2px;height:2px;top:70%;left:65%;animation:tw 3.4s ease-in-out 0.2s infinite alternate;}
+  @keyframes tw { from{opacity:0.15} to{opacity:1} }
+
+  /* Clouds */
+  .cloud { position:absolute; background:rgba(45,27,78,0.5); border-radius:2px; }
+  .cl1 { width:140px;height:18px;top:18%;left:5%; animation:cdrift 55s linear 0s infinite; }
+  .cl2 { width:100px;height:14px;top:55%;left:60%; animation:cdrift 70s linear -25s infinite; opacity:0.4; }
+  .cl3 { width:180px;height:16px;top:72%;left:20%; animation:cdrift 45s linear -40s infinite; opacity:0.3; }
+  @keyframes cdrift { 0%{transform:translateX(-200px)} 100%{transform:translateX(1100px)} }
+
+  /* Shooting stars */
+  .shoot {
+    position:absolute; width:80px; height:2px;
+    background: linear-gradient(90deg, transparent, #fff4a3, transparent);
+    opacity:0;
+  }
+  .sh1 { top:15%;left:5%; animation:shoot 10s ease-in 0s infinite; transform:rotate(-25deg); }
+  .sh2 { top:40%;left:20%; animation:shoot 10s ease-in 5s infinite; transform:rotate(-30deg); }
+  @keyframes shoot { 0%{transform:translateX(-50px) rotate(-25deg);opacity:0} 4%{opacity:1} 14%{transform:translateX(500px) rotate(-25deg);opacity:0} 100%{opacity:0} }
+
+  /* Title */
+  .title { position:relative; z-index:2; text-align:center; }
+  .title h2 {
+    font-size:14px; color:#c084fc;
+    text-shadow: 0 0 12px #c084fc, 0 0 30px rgba(192,132,252,0.35);
+    animation: tpulse 2.3s ease-in-out infinite alternate;
+    margin-bottom:4px;
+  }
+  .title span { font-size:6px; color:rgba(233,213,255,0.5); }
+  @keyframes tpulse {
+    from { text-shadow:0 0 10px #c084fc; }
+    to   { text-shadow:0 0 28px #c084fc, 0 0 52px rgba(192,132,252,0.3); }
+  }
+</style>
+<div class="root">
+  <div class="star st1"></div><div class="star st2"></div><div class="star st3"></div>
+  <div class="star st4"></div><div class="star st5"></div><div class="star st6"></div>
+  <div class="star st7"></div><div class="star st8"></div><div class="star st9"></div>
+  <div class="star st10"></div><div class="star st11"></div><div class="star st12"></div>
+  <div class="cloud cl1"></div><div class="cloud cl2"></div><div class="cloud cl3"></div>
+  <div class="shoot sh1"></div><div class="shoot sh2"></div>
+  <div class="title">
+    <h2>✨ ◆ SKY REALM ◆ ✨</h2>
+    <span>— WORDS OF THE ANCIENT SAGES —</span>
+  </div>
+</div>
+</div>
+</foreignObject>
+</svg>

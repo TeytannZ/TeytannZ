@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 900 100" width="900" height="100">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+  * { margin:0; padding:0; box-sizing:border-box; }
+  .root {
+    width:900px; height:100px;
+    background: linear-gradient(180deg, #060d18 0%, #0d1520 50%, #111e30 100%);
+    font-family:'Press Start 2P',monospace;
+    position:relative; overflow:hidden;
+    display:flex; align-items:center; justify-content:center;
+  }
+  /* Moon */
+  .moon {
+    position:absolute; top:8px; right:60px;
+    width:52px; height:52px;
+    background: radial-gradient(circle, #fff8dc 0%, #ffe4a1 60%, #ffd700 100%);
+    border-radius:50%;
+    box-shadow: 0 0 20px rgba(255,215,0,0.45), 0 0 50px rgba(255,215,0,0.15);
+    animation: moonGlow 4s ease-in-out infinite alternate;
+  }
+  @keyframes moonGlow { from{box-shadow:0 0 16px rgba(255,215,0,0.35)} to{box-shadow:0 0 30px rgba(255,215,0,0.55),0 0 60px rgba(255,215,0,0.15)} }
+  .crater { position:absolute; background:rgba(0,0,0,0.12); border-radius:50%; }
+  .cr1{width:10px;height:10px;top:12px;left:14px}
+  .cr2{width:7px;height:7px;top:28px;left:30px}
+  .cr3{width:6px;height:6px;top:34px;left:12px}
+
+  /* Village silhouette */
+  .house { position:absolute; bottom:0; background:#0d1520; }
+  .roof { position:absolute; bottom:0; width:0; height:0; border-left:solid transparent; border-right:solid transparent; border-bottom:solid #0d1520; }
+  /* House 1 */
+  .h1{width:52px;height:38px;left:30px;bottom:0}
+  .r1{border-left-width:30px;border-right-width:30px;border-bottom-width:22px;left:24px;bottom:38px}
+  /* House 2 */
+  .h2{width:64px;height:45px;left:140px}
+  .r2{border-left-width:36px;border-right-width:36px;border-bottom-width:26px;left:132px;bottom:45px}
+  /* House 3 */
+  .h3{width:48px;height:36px;left:280px}
+  .r3b{border-left-width:28px;border-right-width:28px;border-bottom-width:20px;left:276px;bottom:36px}
+  /* House 4 */
+  .h4{width:70px;height:50px;left:400px}
+  .r4{border-left-width:40px;border-right-width:40px;border-bottom-width:28px;left:392px;bottom:50px}
+  /* House 5 */
+  .h5{width:56px;height:40px;left:560px}
+  .r5{border-left-width:32px;border-right-width:32px;border-bottom-width:23px;left:554px;bottom:40px}
+  /* House 6 */
+  .h6{width:50px;height:37px;left:700px}
+  .r6{border-left-width:29px;border-right-width:29px;border-bottom-width:21px;left:695px;bottom:37px}
+  /* House 7 */
+  .h7{width:58px;height:42px;left:820px}
+  .r7{border-left-width:33px;border-right-width:33px;border-bottom-width:24px;left:813px;bottom:42px}
+
+  /* Pixel trees */
+  .ptree { position:absolute; bottom:0; width:0; height:0; border-left:solid transparent; border-right:solid transparent; border-bottom:solid #1a2a2a; }
+  .pt1{border-left-width:10px;border-right-width:10px;border-bottom-width:30px;left:100px}
+  .pt2{border-left-width:9px;border-right-width:9px;border-bottom-width:26px;left:240px}
+  .pt3{border-left-width:11px;border-right-width:11px;border-bottom-width:32px;left:500px}
+  .pt4{border-left-width:9px;border-right-width:9px;border-bottom-width:28px;left:660px}
+  .pt5{border-left-width:10px;border-right-width:10px;border-bottom-width:30px;left:780px}
+
+  /* Stars */
+  .star{position:absolute;background:#fff;border-radius:50%;}
+  .st1{width:2px;height:2px;top:10%;left:5%;animation:tw 2.8s ease-in-out 0s infinite alternate;}
+  .st2{width:2px;height:2px;top:18%;left:22%;animation:tw 3.1s ease-in-out 0.5s infinite alternate;}
+  .st3{width:2px;height:2px;top:8%;left:40%;animation:tw 2.6s ease-in-out 1.2s infinite alternate;}
+  .st4{width:2px;height:2px;top:25%;left:55%;animation:tw 3.3s ease-in-out 0.8s infinite alternate;}
+  .st5{width:2px;height:2px;top:12%;left:72%;animation:tw 2.9s ease-in-out 1.6s infinite alternate;}
+  .st6{width:2px;height:2px;top:5%;left:88%;animation:tw 3.0s ease-in-out 0.3s infinite alternate;}
+  @keyframes tw { from{opacity:0.15} to{opacity:1} }
+
+  /* Title */
+  .title{position:relative;z-index:2;text-align:center;}
+  .title h2{
+    font-size:14px;color:#00d9ff;
+    text-shadow:0 0 12px #00d9ff,0 0 28px rgba(0,217,255,0.35);
+    animation:tpulse 2.2s ease-in-out infinite alternate;
+    margin-bottom:4px;
+  }
+  .title span{font-size:6px;color:rgba(127,219,255,0.5);}
+  @keyframes tpulse { from{text-shadow:0 0 10px #00d9ff} to{text-shadow:0 0 26px #00d9ff,0 0 50px rgba(0,217,255,0.25)} }
+</style>
+<div class="root">
+  <div class="moon"><div class="crater cr1"></div><div class="crater cr2"></div><div class="crater cr3"></div></div>
+  <!-- Houses + Roofs -->
+  <div class="house h1"></div><div class="roof r1"></div>
+  <div class="house h2"></div><div class="roof r2"></div>
+  <div class="house h3"></div><div class="roof r3b"></div>
+  <div class="house h4"></div><div class="roof r4"></div>
+  <div class="house h5"></div><div class="roof r5"></div>
+  <div class="house h6"></div><div class="roof r6"></div>
+  <div class="house h7"></div><div class="roof r7"></div>
+  <!-- Trees -->
+  <div class="ptree pt1"></div><div class="ptree pt2"></div><div class="ptree pt3"></div>
+  <div class="ptree pt4"></div><div class="ptree pt5"></div>
+  <!-- Stars -->
+  <div class="star st1"></div><div class="star st2"></div><div class="star st3"></div>
+  <div class="star st4"></div><div class="star st5"></div><div class="star st6"></div>
+  <div class="title">
+    <h2>🌙 ◆ MOONLIT VILLAGE ◆ 🌙</h2>
+    <span>— SEND A RAVEN —</span>
+  </div>
+</div>
+</div>
+</foreignObject>
+</svg>

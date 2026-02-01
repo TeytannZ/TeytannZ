@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 900 100" width="900" height="100">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+  * { margin:0; padding:0; box-sizing:border-box; }
+  .root {
+    width:900px; height:100px;
+    background: linear-gradient(180deg, #060c18 0%, #0a0e1a 40%, #111d2e 100%);
+    font-family:'Press Start 2P',monospace;
+    position:relative; overflow:hidden;
+    display:flex; align-items:center; justify-content:center;
+  }
+  /* Ice crystals at bottom */
+  .crystal { position:absolute; bottom:0; width:0; height:0; border-left:solid transparent; border-right:solid transparent; border-bottom:solid; opacity:0.3; }
+  .c1 { border-left-width:12px;border-right-width:12px;border-bottom-width:30px;border-bottom-color:#a0d8ef; left:60px; }
+  .c2 { border-left-width:8px;border-right-width:8px;border-bottom-width:22px;border-bottom-color:#7fdbff; left:180px; }
+  .c3 { border-left-width:14px;border-right-width:14px;border-bottom-width:35px;border-bottom-color:#a0d8ef; left:350px; }
+  .c4 { border-left-width:10px;border-right-width:10px;border-bottom-width:26px;border-bottom-color:#00d4ff; left:520px; }
+  .c5 { border-left-width:13px;border-right-width:13px;border-bottom-width:32px;border-bottom-color:#a0d8ef; left:700px; }
+  .c6 { border-left-width:9px;border-right-width:9px;border-bottom-width:24px;border-bottom-color:#7fdbff; left:830px; }
+
+  /* Snowflakes */
+  .sf { position:absolute; color:#a0d8ef; opacity:0; font-size:8px; }
+  .sf1 { left:5%; animation:sfall 8s linear 0s infinite; }
+  .sf2 { left:18%; animation:sfall 10s linear 2s infinite; font-size:6px; }
+  .sf3 { left:35%; animation:sfall 7s linear 4s infinite; font-size:10px; color:#7fdbff; }
+  .sf4 { left:52%; animation:sfall 9s linear 1s infinite; font-size:6px; }
+  .sf5 { left:68%; animation:sfall 11s linear 3s infinite; font-size:8px; }
+  .sf6 { left:82%; animation:sfall 7.5s linear 5s infinite; font-size:7px; color:#00d4ff; }
+  .sf7 { left:94%; animation:sfall 9.5s linear 0.5s infinite; font-size:6px; }
+  @keyframes sfall { 0%{top:-20px;opacity:0;transform:rotate(0deg)} 8%{opacity:0.7} 90%{opacity:0.3} 100%{top:110px;opacity:0;transform:rotate(360deg)} }
+
+  /* Title */
+  .title { position:relative; z-index:2; text-align:center; }
+  .title h2 {
+    font-size:14px; color:#00d4ff;
+    text-shadow: 0 0 12px #00d4ff, 0 0 30px rgba(0,212,255,0.35);
+    animation: tpulse 2.2s ease-in-out infinite alternate;
+    margin-bottom:4px;
+  }
+  .title span { font-size:6px; color:rgba(127,219,255,0.5); }
+  @keyframes tpulse {
+    from { text-shadow:0 0 10px #00d4ff; }
+    to   { text-shadow:0 0 26px #00d4ff, 0 0 50px rgba(0,212,255,0.3); }
+  }
+</style>
+<div class="root">
+  <div class="crystal c1"></div><div class="crystal c2"></div><div class="crystal c3"></div>
+  <div class="crystal c4"></div><div class="crystal c5"></div><div class="crystal c6"></div>
+  <div class="sf sf1">❄</div><div class="sf sf2">❅</div><div class="sf sf3">❆</div>
+  <div class="sf sf4">❅</div><div class="sf sf5">❄</div><div class="sf sf6">✦</div><div class="sf sf7">❅</div>
+  <div class="title">
+    <h2>❄️ ◆ FROZEN TUNDRA ◆ ❄️</h2>
+    <span>— THE CHRONICLES OF CONTRIBUTION —</span>
+  </div>
+</div>
+</div>
+</foreignObject>
+</svg>

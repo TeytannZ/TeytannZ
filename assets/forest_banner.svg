@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 900 100" width="900" height="100">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+  * { margin:0; padding:0; box-sizing:border-box; }
+  .root {
+    width:900px; height:100px;
+    background: linear-gradient(180deg, #0d1b0d 0%, #122812 60%, #1a3a1a 100%);
+    font-family: 'Press Start 2P', monospace;
+    position: relative; overflow:hidden;
+    display:flex; align-items:center; justify-content:center;
+  }
+  /* Trees silhouette */
+  .tree { position:absolute; bottom:0; width:0; height:0; border-left:solid transparent; border-right:solid transparent; border-bottom:solid; }
+  .t1 { border-left-width:18px; border-right-width:18px; border-bottom-width:52px; border-bottom-color:#1a3a1a; left:40px; }
+  .t2 { border-left-width:24px; border-right-width:24px; border-bottom-width:68px; border-bottom-color:#2d6a2d; left:100px; }
+  .t3 { border-left-width:16px; border-right-width:16px; border-bottom-width:46px; border-bottom-color:#1a3a1a; left:180px; }
+  .t4 { border-left-width:22px; border-right-width:22px; border-bottom-width:62px; border-bottom-color:#2d6a2d; left:260px; }
+  .t5 { border-left-width:19px; border-right-width:19px; border-bottom-width:55px; border-bottom-color:#1a3a1a; left:370px; }
+  .t6 { border-left-width:25px; border-right-width:25px; border-bottom-width:72px; border-bottom-color:#2d6a2d; left:450px; }
+  .t7 { border-left-width:17px; border-right-width:17px; border-bottom-width:48px; border-bottom-color:#1a3a1a; left:560px; }
+  .t8 { border-left-width:23px; border-right-width:23px; border-bottom-width:66px; border-bottom-color:#2d6a2d; left:640px; }
+  .t9 { border-left-width:20px; border-right-width:20px; border-bottom-width:58px; border-bottom-color:#1a3a1a; left:750px; }
+  .t10{ border-left-width:21px; border-right-width:21px; border-bottom-width:60px; border-bottom-color:#2d6a2d; left:830px; }
+
+  /* Fireflies */
+  .ff { position:absolute; width:6px; height:6px; border-radius:50%; background:#39ff14; box-shadow:0 0 8px #39ff14, 0 0 20px #39ff14; opacity:0; }
+  .ff1 { top:25%; left:15%; animation:ffloat 7s ease-in-out 0s infinite; }
+  .ff2 { top:40%; left:72%; animation:ffloat 9s ease-in-out 2s infinite; width:5px;height:5px; }
+  .ff3 { top:20%; left:50%; animation:ffloat 8s ease-in-out 4s infinite; width:8px;height:8px;background:#7fff00;box-shadow:0 0 12px #7fff00,0 0 28px #7fff00; }
+  .ff4 { top:55%; left:30%; animation:ffloat 6s ease-in-out 1s infinite; width:4px;height:4px; }
+  .ff5 { top:35%; left:85%; animation:ffloat 10s ease-in-out 3s infinite; }
+  @keyframes ffloat {
+    0%   { transform:translate(0,0); opacity:0; }
+    15%  { opacity:0.9; }
+    50%  { transform:translate(30px,-25px); opacity:0.7; }
+    85%  { opacity:0.2; }
+    100% { transform:translate(-15px,0); opacity:0; }
+  }
+
+  /* Title */
+  .title {
+    position:relative; z-index:2;
+    text-align:center;
+  }
+  .title h2 {
+    font-size:14px; color:#39ff14;
+    text-shadow: 0 0 12px #39ff14, 0 0 30px rgba(57,255,20,0.3);
+    animation: tpulse 2s ease-in-out infinite alternate;
+    margin-bottom:4px;
+  }
+  .title span {
+    font-size:6px; color:rgba(200,255,200,0.5);
+  }
+  @keyframes tpulse {
+    from { text-shadow:0 0 8px #39ff14; }
+    to   { text-shadow:0 0 24px #39ff14, 0 0 50px rgba(57,255,20,0.3); }
+  }
+</style>
+<div class="root">
+  <div class="tree t1"></div><div class="tree t2"></div><div class="tree t3"></div>
+  <div class="tree t4"></div><div class="tree t5"></div><div class="tree t6"></div>
+  <div class="tree t7"></div><div class="tree t8"></div><div class="tree t9"></div>
+  <div class="tree t10"></div>
+  <div class="ff ff1"></div><div class="ff ff2"></div><div class="ff ff3"></div>
+  <div class="ff ff4"></div><div class="ff ff5"></div>
+  <div class="title">
+    <h2>🌳 ◆ ENCHANTED FOREST ◆ 🌳</h2>
+    <span>— THE TALE OF THE WANDERER —</span>
+  </div>
+</div>
+</div>
+</foreignObject>
+</svg>

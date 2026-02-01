@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 900 100" width="900" height="100">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+  * { margin:0; padding:0; box-sizing:border-box; }
+  .root {
+    width:900px; height:100px;
+    background: linear-gradient(180deg, #1a0a00 0%, #2a1200 50%, #3d1500 80%, #ff4400 100%);
+    font-family:'Press Start 2P',monospace;
+    position:relative; overflow:hidden;
+    display:flex; align-items:center; justify-content:center;
+  }
+  /* Lava glow at bottom */
+  .lava {
+    position:absolute; bottom:0; left:0; right:0; height:20px;
+    background: linear-gradient(180deg, transparent, #ff6b00 40%, #ff4400 100%);
+    animation: lavaPulse 3s ease-in-out infinite alternate;
+  }
+  @keyframes lavaPulse { from{opacity:0.6} to{opacity:1} }
+
+  /* Rock shapes */
+  .rock { position:absolute; bottom:0; background:#2a1a0a; }
+  .r1 { width:80px;height:25px;left:50px; border-radius:50% 50% 0 0; }
+  .r2 { width:60px;height:18px;left:200px; border-radius:50% 50% 0 0; }
+  .r3 { width:90px;height:22px;left:400px; border-radius:50% 50% 0 0; }
+  .r4 { width:70px;height:20px;left:620px; border-radius:50% 50% 0 0; }
+  .r5 { width:55px;height:16px;left:790px; border-radius:50% 50% 0 0; }
+
+  /* Embers */
+  .ember { position:absolute; width:4px; height:4px; background:#ffaa00; box-shadow:0 0 6px #ff6b00; opacity:0; }
+  .e1 { bottom:5%;left:10%; animation:erise 4s ease-out 0s infinite; }
+  .e2 { bottom:8%;left:30%; animation:erise 5.5s ease-out 1s infinite; width:3px;height:3px;background:#ff4400; }
+  .e3 { bottom:3%;left:55%; animation:erise 3.8s ease-out 2s infinite; }
+  .e4 { bottom:10%;left:75%; animation:erise 6s ease-out 0.5s infinite; width:5px;height:5px; }
+  .e5 { bottom:6%;left:90%; animation:erise 4.5s ease-out 3s infinite; width:3px;height:3px;background:#ff4400; }
+  .e6 { bottom:2%;left:45%; animation:erise 5s ease-out 1.5s infinite; }
+  @keyframes erise { 0%{transform:translateY(0);opacity:0} 10%{opacity:1} 70%{opacity:0.5} 100%{transform:translateY(-120px);opacity:0} }
+
+  /* Title */
+  .title { position:relative; z-index:2; text-align:center; }
+  .title h2 {
+    font-size:14px; color:#ffaa00;
+    text-shadow: 0 0 12px #ff6b00, 0 0 30px rgba(255,107,0,0.4);
+    animation: tpulse 2.5s ease-in-out infinite alternate;
+    margin-bottom:4px;
+  }
+  .title span { font-size:6px; color:rgba(255,170,0,0.5); }
+  @keyframes tpulse {
+    from { text-shadow:0 0 10px #ff6b00; }
+    to   { text-shadow:0 0 28px #ff6b00, 0 0 55px rgba(255,107,0,0.3); }
+  }
+</style>
+<div class="root">
+  <div class="lava"></div>
+  <div class="rock r1"></div><div class="rock r2"></div><div class="rock r3"></div>
+  <div class="rock r4"></div><div class="rock r5"></div>
+  <div class="ember e1"></div><div class="ember e2"></div><div class="ember e3"></div>
+  <div class="ember e4"></div><div class="ember e5"></div><div class="ember e6"></div>
+  <div class="title">
+    <h2>🔥 ◆ LAVA CITADEL ◆ 🔥</h2>
+    <span>— ARSENAL OF THE FORGE MASTER —</span>
+  </div>
+</div>
+</div>
+</foreignObject>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 900 100" width="900" height="100">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+  * { margin:0; padding:0; box-sizing:border-box; }
+  .root {
+    width:900px; height:100px;
+    background: linear-gradient(180deg, #080508 0%, #0f0a0f 40%, #1a1020 100%);
+    font-family:'Press Start 2P',monospace;
+    position:relative; overflow:hidden;
+    display:flex; align-items:center; justify-content:center;
+  }
+  /* Stone blocks at bottom */
+  .stone { position:absolute; bottom:0; background:#2a2030; }
+  .sb1 { width:100px;height:18px;left:20px; }
+  .sb2 { width:80px;height:14px;left:150px;background:#231a2e; }
+  .sb3 { width:120px;height:18px;left:280px; }
+  .sb4 { width:90px;height:14px;left:440px;background:#231a2e; }
+  .sb5 { width:110px;height:18px;left:570px; }
+  .sb6 { width:95px;height:14px;left:720px;background:#231a2e; }
+  .sb7 { width:85px;height:18px;left:840px; }
+  /* Cracks between stones */
+  .crack { position:absolute; bottom:0; width:2px; height:18px; background:#150e1a; }
+  .cr1{left:120px} .cr2{left:230px} .cr3{left:400px} .cr4{left:530px} .cr5{left:680px} .cr6{left:815px}
+
+  /* Green fog wisps */
+  .fog { position:absolute; bottom:0; height:28px; opacity:0.15; border-radius:50%; }
+  .fg1 { width:200px;left:50px;background:radial-gradient(ellipse,#39ff14 0%,transparent 70%); animation:fogdrift 12s ease-in-out 0s infinite alternate; }
+  .fg2 { width:180px;left:300px;background:radial-gradient(ellipse,#9b59b6 0%,transparent 70%); animation:fogdrift 10s ease-in-out 3s infinite alternate; opacity:0.1; }
+  .fg3 { width:220px;left:600px;background:radial-gradient(ellipse,#39ff14 0%,transparent 70%); animation:fogdrift 14s ease-in-out 6s infinite alternate; }
+  @keyframes fogdrift { from{transform:translateX(0)} to{transform:translateX(40px)} }
+
+  /* Floating ghosts/skulls */
+  .ghost { position:absolute; opacity:0; font-size:16px; }
+  .g1 { top:20%;left:12%; animation:gfloat 9s ease-in-out 0s infinite; }
+  .g2 { top:35%;left:75%; animation:gfloat 12s ease-in-out 3s infinite; font-size:20px; }
+  .g3 { top:15%;left:45%; animation:gfloat 8s ease-in-out 6s infinite; font-size:12px; }
+  .g4 { top:50%;left:88%; animation:gfloat 11s ease-in-out 2s infinite; font-size:14px; }
+  @keyframes gfloat {
+    0%   { transform:translateY(0) translateX(0); opacity:0; }
+    12%  { opacity:0.35; }
+    50%  { transform:translateY(-20px) translateX(20px); }
+    88%  { opacity:0.15; }
+    100% { transform:translateY(-40px) translateX(-10px); opacity:0; }
+  }
+
+  /* Title */
+  .title { position:relative; z-index:2; text-align:center; }
+  .title h2 {
+    font-size:14px; color:#c39bd3;
+    text-shadow: 0 0 12px #9b59b6, 0 0 30px rgba(155,89,182,0.35);
+    animation: tpulse 2.8s ease-in-out infinite alternate;
+    margin-bottom:4px;
+  }
+  .title span { font-size:6px; color:rgba(195,155,211,0.5); }
+  @keyframes tpulse {
+    from { text-shadow:0 0 10px #9b59b6; }
+    to   { text-shadow:0 0 28px #9b59b6, 0 0 55px rgba(155,89,182,0.3); }
+  }
+</style>
+<div class="root">
+  <div class="stone sb1"></div><div class="stone sb2"></div><div class="stone sb3"></div>
+  <div class="stone sb4"></div><div class="stone sb5"></div><div class="stone sb6"></div><div class="stone sb7"></div>
+  <div class="crack cr1"></div><div class="crack cr2"></div><div class="crack cr3"></div>
+  <div class="crack cr4"></div><div class="crack cr5"></div><div class="crack cr6"></div>
+  <div class="fog fg1"></div><div class="fog fg2"></div><div class="fog fg3"></div>
+  <div class="ghost g1">💀</div><div class="ghost g2">👻</div>
+  <div class="ghost g3">🦇</div><div class="ghost g4">💀</div>
+  <div class="title">
+    <h2>💀 ◆ HAUNTED CRYPT ◆ 💀</h2>
+    <span>— THE ANCIENT ARCADE —</span>
+  </div>
+</div>
+</div>
+</foreignObject>
+</svg>
