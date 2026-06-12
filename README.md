@@ -5,95 +5,169 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:8B0000,75:E94560,100:FFD700&height=230&section=header&text=TeytannZ&fontSize=64&fontColor=FFD700&animation=twinkling&fontAlignY=36&desc=⚔️%20THE%20DEVELOPER%20SAGA%20⚔️&descSize=20&descColor=E94560&descAlignY=58" width="100%"/>
+[](https://github.com/TeytannZ)
 
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=PRESS%20START&width=835&height=160"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2600&pause=800&color=FFD700&center=true&vCenter=true&width=900&height=60&lines=INSERT+COIN+TO+CONTINUE...;PLAYER+1%3A+TeytannZ;CLASS%3A+FULL-STACK+APPRENTICE;MAIN+QUEST%3A+FIRST+DEV+JOB;WEAPONS%3A+JS+%E2%80%A2+TS+%E2%80%A2+REACT+%E2%80%A2+NODE;STATUS%3A+GRINDING+XP+DAILY)](https://github.com/TeytannZ)
+</div>
 
 <br/>
 
-<!-- ── WORLD MAP (navigation) ── -->
+<table border="0" width="100%"><tr>
+<td width="55%" valign="top">
+
+```typescript
+const player: Developer = {
+  name:       "TeytannZ",
+  role:       "Full-Stack Apprentice  ⚔️",
+  location:   "The Graduation Gate   🎓",
+
+  languages:  ["JS", "TS", "Python", "Java", "C"],
+  frameworks: ["React", "Next.js", "Tailwind",
+               "Node.js", "Express"],
+  databases:  ["MongoDB", "PostgreSQL"],
+
+  mainQuest:  "Land the first dev role   🎯",
+  grinding:   ["Next.js", "TypeScript",
+               "System Design"],
+  openFor:    ["collabs", "feedback", "opportunities"],
+
+  superpower: "Code drops between 1AM–4AM  ⚡",
+  dailyReset: "Sahih Bukhari & Muslim    🌙",
+  funFact:    "git commit -m 'fix at 3am'  💀",
+};
+```
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+</td>
+</tr></table>
+
+<div align="center">
+
+<a href="#arena"><kbd> 👾 BOSS ARENA </kbd></a>&nbsp;
+<a href="#stats"><kbd> 🔥 BATTLE STATS </kbd></a>&nbsp;
 <a href="#character"><kbd> 🎮 CHARACTER </kbd></a>&nbsp;
 <a href="#skills"><kbd> ⚔️ SKILL TREE </kbd></a>&nbsp;
-<a href="#stats"><kbd> 🔥 BATTLE STATS </kbd></a>&nbsp;
 <a href="#companions"><kbd> 🐾 COMPANIONS </kbd></a>&nbsp;
-<a href="#arena"><kbd> 👾 BOSS ARENA </kbd></a>&nbsp;
 <a href="#sanctuary"><kbd> 🌙 SANCTUARY </kbd></a>&nbsp;
 <a href="#summon"><kbd> 📡 SUMMON ME </kbd></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=TeytannZ&label=ADVENTURERS+VISITED&color=FFD700&style=for-the-badge" alt="visitors"/>
-&nbsp;
+ 
 <img src="https://img.shields.io/github/followers/TeytannZ?label=PARTY+MEMBERS&style=for-the-badge&color=E94560&labelColor=0D1117&logo=github&logoColor=FFD700" alt="followers"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<!-- ═══════════════════ STAGE 01 · CHARACTER SELECT ═══════════════════ -->
+<!-- ═══════════════════ STAGE 01 · BOSS ARENA ═══════════════════ -->
+
+<a name="arena"></a>
+
+<div align="center">
+
+<br/>
+
+### 🧊 THE OVERWORLD — *contributions in 3D*
+
+![3D contribution calendar](https://raw.githubusercontent.com/TeytannZ/TeytannZ/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+### 👾 BOSS FIGHT I — PAC-MAN *vs* THE COMMIT GRID
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output-pacman/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output-pacman/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output-pacman/pacman-contribution-graph-dark.svg" width="100%" alt="pacman eating contributions"/>
+</picture>
+
+### 🐍 BOSS FIGHT II — THE SERPENT *vs* THE COMMIT GRID
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions"/>
+</picture>
+
+</div>
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+<!-- ═══════════════════ STAGE 02 · BATTLE STATS ═══════════════════ -->
+
+<a name="stats"></a>
+
+<div align="center">
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TeytannZ&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=E94560&text_color=C9D1D9&ring_color=FFD700&custom_title=⚔️%20COMBAT%20RECORD" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeytannZ&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&custom_title=🗡️%20WEAPON%20USAGE" height="185"/>
+
+<br/><br/>
+
+<br/><br/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TeytannZ&theme=github_dark&utcOffset=3" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeytannZ&theme=github_dark" width="49%"/>
+
+</div>
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+<!-- ═══════════════════ STAGE 03 · CHARACTER SELECT ═══════════════════ -->
+
 <a name="character"></a>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" height="35"/>
-  &nbsp;STAGE 01 · CHARACTER SELECT&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" height="35"/>
-</h2>
+<div align="center">
+
+</div>
+
+<br/>
 
 <table border="0" width="100%">
 <tr>
-<td width="58%" valign="top">
-
-```text
-╔═══════════════ CHARACTER SHEET ═══════════════╗
-║                                               ║
-║   PLAYER ......... TeytannZ                   ║
-║   CLASS .......... Full-Stack Apprentice      ║
-║   GUILD .......... CS — Software Eng & IS     ║
-║   SPAWN POINT .... The Graduation Gate        ║
-║   ALIGNMENT ...... Lawful Curious             ║
-║   MAIN QUEST ..... Land the first dev role    ║
-║   SIDE QUEST ..... Master the JS multiverse   ║
-║   PASSIVE ........ Self-taught HTML/CSS/JS    ║
-║   WEAKNESS ....... "just one more commit"     ║
-║                                               ║
-╚═══════════════════════════════════════════════╝
-```
-
-❤️ `HP ` 🟥🟥🟥🟥🟥🟥🟥🟥🟥⬛ &nbsp;`90/100` — *runs on coffee*
-
-🔷 `MP ` 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ &nbsp;`70/100` — *refills at 3 AM*
-
-✨ `XP ` 🟨🟨🟨⬛⬛⬛⬛⬛⬛⬛ &nbsp;`LVL 1` — *grinding daily*
+<td width="30%" align="center" valign="middle">
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="70%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+```text
+╔══════════════ CHARACTER SHEET ═════════════╗
+║  PLAYER  ........ TeytannZ                 ║
+║  CLASS  ......... Full-Stack Apprentice    ║
+║  GUILD  ......... CS — Soft. Eng & IS      ║
+║  MAIN QUEST ..... Land the first dev role  ║
+║  WEAKNESS ....... "just one more commit"   ║
+╚════════════════════════════════════════════╝
+```
+
+❤️ `HP` 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ &nbsp;`80/100`
+
+🔷 `MP` 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ &nbsp;`70/100`
+
+✨ `XP` 🟨🟨🟨⬛⬛⬛⬛⬛⬛⬛ &nbsp;`LVL 1 · grinding`
+
+<br/>
+
+<img src="https://img.shields.io/badge/⚔️_CLASS-CODE_KNIGHT-0D1117?style=for-the-badge&labelColor=8B0000"/>
+<img src="https://img.shields.io/badge/🎓_GUILD-CS_GRADUATE-0D1117?style=for-the-badge&labelColor=B8860B"/>
+<img src="https://img.shields.io/badge/🌙_TRAIT-NIGHT_CODER-0D1117?style=for-the-badge&labelColor=8B0000"/>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/⚔️_CLASS-CODE_KNIGHT-0D1117?style=for-the-badge&labelColor=8B0000"/>
-<img src="https://img.shields.io/badge/🎓_GUILD-CS_GRADUATE-0D1117?style=for-the-badge&labelColor=B8860B"/>
-<img src="https://img.shields.io/badge/☕_BUFF-CAFFEINE_×3-0D1117?style=for-the-badge&labelColor=8B0000"/>
-<img src="https://img.shields.io/badge/🌙_TRAIT-NIGHT_CODER-0D1117?style=for-the-badge&labelColor=B8860B"/>
-
-</div>
-
 ### 📜 ACTIVE QUEST LOG
 
 | QUEST | STATUS | REWARD |
-|---|---|---|
-| 🛠️ &nbsp;Build real projects that solve real problems | ⏳ &nbsp;IN PROGRESS | `+500 XP` |
-| 📜 &nbsp;Master Next.js, TypeScript & system design | ⏳ &nbsp;IN PROGRESS | `Legendary Scroll` |
-| 🐛 &nbsp;Defeat the Bug Boss (daily raid) | 🔁 &nbsp;REPEATS | `Clean Console` |
+| --- | --- | --- |
+| 🛠️ &nbsp;Build projects that solve real problems | ⏳ &nbsp;IN PROGRESS | `+500 XP` |
 | 💼 &nbsp;Land the first developer role | 🎯 &nbsp;MAIN QUEST | `Career Unlocked` |
-| 🤝 &nbsp;Open-source contributions | 🗺️ &nbsp;DISCOVERED | `Reputation +50` |
+| 📜 &nbsp;Master Next.js & TypeScript | ⏳ &nbsp;IN PROGRESS | `Legendary Scroll` |
 
 ### 🏅 COMPLETED QUESTS
 
@@ -108,93 +182,41 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<!-- ═══════════════════ STAGE 02 · SKILL TREE ═══════════════════ -->
+<!-- ═══════════════════ STAGE 04 · SKILL TREE ═══════════════════ -->
+
 <a name="skills"></a>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="35" height="35"/>
-  &nbsp;STAGE 02 · SKILL TREE&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="35" height="35"/>
-</h2>
-
 <div align="center">
+
+<br/>
 
 ### ⚔️ EQUIPPED WEAPONS — *languages*
 
-<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css&theme=dark" /></a>
+<a href="#"></a>
 
 ### 🛡️ ARMOR & ENCHANTMENTS — *frameworks*
 
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&theme=dark" /></a>
+<a href="#"></a>
 
 ### 🎒 INVENTORY — *databases & tools*
 
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode&theme=dark" /></a>
+<a href="#"></a>
 
 </div>
 
-```text
-  SKILL MASTERY ─ TRAINING LOG
-  ───────────────────────────────────────────────────────────────
-  HTML / CSS      ██████████████████░░   LVL 18 ◆ layout arts mastered
-  JavaScript      ██████████████░░░░░░   LVL 14 ◆ fluent in async sorcery
-  React           ████████████░░░░░░░░   LVL 12 ◆ component summoner
-  Node / Express  ██████████░░░░░░░░░░   LVL 10 ◆ backend forge apprentice
-  TypeScript      ████████░░░░░░░░░░░░   LVL 08 ◆ learning the type runes
-  Python · Java   ██████░░░░░░░░░░░░░░   LVL 06 ◆ academy foundations
-  ───────────────────────────────────────────────────────────────
-  ◇ new skill points allocated every night at 3 AM
-```
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<!-- ═══════════════════ STAGE 05 · TAVERN COMPANIONS ═══════════════════ -->
 
-<!-- ═══════════════════ STAGE 03 · BATTLE STATS ═══════════════════ -->
-<a name="stats"></a>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35"/>
-  &nbsp;STAGE 03 · BATTLE STATS&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35"/>
-</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TeytannZ&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=E94560&text_color=C9D1D9&ring_color=FFD700&custom_title=⚔️%20COMBAT%20RECORD" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeytannZ&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&custom_title=🗡️%20WEAPON%20USAGE" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=TeytannZ&hide_border=true&background=0D1117&ring=FFD700&fire=E94560&currStreakNum=FFD700&currStreakLabel=E94560&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeytannZ&theme=gruvbox" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TeytannZ&theme=gruvbox&utcOffset=1" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeytannZ&theme=gruvbox" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeytannZ&bg_color=0D1117&color=FFD700&line=E94560&point=FFD700&area=true&area_color=E94560&hide_border=true&custom_title=⚡%20POWER%20LEVEL%20TIMELINE%20⚡" width="100%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<!-- ═══════════════════ STAGE 04 · TAVERN COMPANIONS ═══════════════════ -->
 <a name="companions"></a>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="35" height="35"/>
-  &nbsp;STAGE 04 · TAVERN COMPANIONS&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="35" height="35"/>
-</h2>
-
 <div align="center">
 
-*Real pets, hatched from real commits — every ~30 contributions a new companion joins the party, and they level up as I code.* 🥚
+<br/>
+
+*Every ~30 contributions a new companion joins the party.* 🥚
 
 <br/>
 
@@ -210,55 +232,18 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<!-- ═══════════════════ STAGE 05 · BOSS ARENA ═══════════════════ -->
-<a name="arena"></a>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" width="35" height="35"/>
-  &nbsp;STAGE 05 · BOSS ARENA&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" width="35" height="35"/>
-</h2>
-
-<div align="center">
-
-### 🧊 THE OVERWORLD — *contributions in 3D*
-
-<img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar"/>
-
-### 👾 BOSS FIGHT: PAC-MAN *vs* THE COMMIT GRID
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output-pacman/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output-pacman/pacman-contribution-graph.svg"/>
-  <img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output-pacman/pacman-contribution-graph-dark.svg" width="100%" alt="pacman eating contributions"/>
-</picture>
-
-### 🐍 BOSS FIGHT: THE SERPENT *vs* THE COMMIT GRID
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions"/>
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <!-- ═══════════════════ THE SANCTUARY ═══════════════════ -->
-<a name="sanctuary"></a>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" width="35" height="35"/>
-  &nbsp;THE SANCTUARY · HADITH OF THE DAY&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" width="35" height="35"/>
-</h2>
+<a name="sanctuary"></a>
 
 <div align="center">
 
+<br/>
+
 <!-- HADITH_START -->
+
 <table><tr><td align="center">
 <br/>
 
@@ -268,56 +253,46 @@
 
 <sub>― Sahih al-Bukhari & Sahih Muslim</sub>
 <br/>
+
 </td></tr></table>
 <!-- HADITH_END -->
 
-<sub>🌙 rotates automatically every day at 4 AM UTC · 30 authentic hadiths, verified from Sahih al-Bukhari & Sahih Muslim</sub>
+<sub>🌙 rotates automatically every day at 4 AM UTC · 30 authentic hadiths from Sahih al-Bukhari & Sahih Muslim</sub>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Verily%2C%20with%20hardship%20comes%20ease.&author=Surah%20Ash-Sharh%2094%3A6" />
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<!-- ═══════════════════ SIDE QUESTS ═══════════════════ -->
-<a name="sidequests"></a>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="35" height="35"/>
-  &nbsp;SIDE QUESTS · THE TAVERN&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="35" height="35"/>
-</h2>
+<!-- ═══════════════════ SIDE QUESTS · THE TAVERN ═══════════════════ -->
 
 <div align="center">
 
-### 🍺 TAVERN JOKE OF THE DAY
+<br/>
 
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%23FFD700&aColor=%23E94560&textColor=%23C9D1D9&codeColor=%23FFD700&hideBorder" alt="dev joke"/>
+### 🍺 TAVERN JOKE OF THE DAY
 
 </div>
 
 <details>
-<summary>&nbsp;🗝️ <b>YOU FOUND A SECRET ROOM — click to enter</b></summary>
+<summary> 🗝️ <b>YOU FOUND A SECRET ROOM — click to enter</b></summary>
 
 <br/>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
+![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 ### 💥 CRITICAL HIT! You discovered the hidden chamber.
 
 **Loot acquired — 5 secrets about the player:**
 
-🌙 &nbsp;The best code happens between 1 AM and 4 AM — this is non-negotiable lore<br/>
-☕ &nbsp;Coffee count is a stat I deliberately do not track<br/>
-🎮 &nbsp;Yes, the Discord status probably says "playing something"<br/>
-🐛 &nbsp;I once debugged for 3 hours — the bug was a missing semicolon (we don't talk about it)<br/>
+🌙 &nbsp;Best code drops between 1 AM and 4 AM — non-negotiable lore<br/>
+🎮 &nbsp;The Discord status probably says "playing something"<br/>
+🐛 &nbsp;Once debugged for 3 hours — the bug was a missing semicolon (we don't talk about it)<br/>
 📚 &nbsp;College taught the surface — the real skill tree was self-taught<br/>
-
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT_UNLOCKED-CURIOSITY_+10-0D1117?style=for-the-badge&labelColor=B8860B"/>
+🌙 &nbsp;Daily anchor: Sahih al-Bukhari & Sahih Muslim, every morning<br/>
 
 </div>
 
@@ -325,35 +300,52 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <!-- ═══════════════════ MULTIPLAYER · SUMMON ME ═══════════════════ -->
-<a name="summon"></a>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35"/>
-  &nbsp;MULTIPLAYER · SUMMON ME&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35"/>
-</h2>
+<a name="summon"></a>
 
 <div align="center">
 
-<!-- LIVE Discord presence — see SETUP.md step 6 (requires joining discord.gg/lanyard once) -->
-<a href="https://discord.com/users/TeytannZ">
-<img src="https://lanyard.cnrad.dev/api/TeytannZ?theme=dark&bg=0D1117&borderRadius=12px&animated=true&idleMessage=Probably%20grinding%20XP%20offline..." alt="live discord presence"/>
+<br/>
+
+<!-- LIVE Discord presence — join discord.gg/lanyard, then replace YOUR_DISCORD_ID with your numeric ID -->
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0D1117&borderRadius=12px&animated=true&idleMessage=Probably%20grinding%20XP%20offline..." alt="live discord presence"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/TeytannZ"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
-&nbsp;
-<a href="mailto:TeytannZ@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=E94560"/></a>
-&nbsp;
-<a href="https://discord.com/users/TeytannZ"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=FFD700"/></a>
+<table><tr>
+<td align="center" width="120">
+<a href="https://github.com/TeytannZ">
+<img src="https://cdn.simpleicons.org/github/FFD700" width="64" height="64"/><br/><br/>
+<b>GitHub</b>
+</a>
+</td>
+<td align="center" width="120">
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/E94560" width="64" height="64"/><br/><br/>
+<b>Gmail</b>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="64" height="64"/><br/><br/>
+<b>Discord</b>
+</a>
+</td>
+<td align="center" width="120">
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://cdn.simpleicons.org/vercel/C9D1D9" width="64" height="64"/><br/><br/>
+<b>Portfolio</b>
+</a>
+</td>
+</tr></table>
 
-<br/><br/>
+<br/>
 
 *Party invites open — collabs, feedback, opportunities, or just talking shop.* 🤝
 
@@ -365,9 +357,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=900&color=E94560&center=true&vCenter=true&width=900&height=50&lines=GAME+OVER%3F+...+NAH+%E2%80%94+RESPAWNING+TOMORROW;NEW+GAME%2B+STARTS+AT+SUNRISE;%E2%AD%90+INSERT+STAR+TO+CONTINUE+%E2%AD%90)](https://github.com/TeytannZ)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,25:E94560,60:8B0000,100:0D1117&height=160&section=footer&text=GG%20·%20SEE%20YOU%20IN%20THE%20NEXT%20COMMIT&fontSize=28&fontColor=FFD700&fontAlignY=72" width="100%"/>
+[](https://github.com/TeytannZ)
 
 <sub>⚡ This profile is alive — the hadith rotates daily, the pets grow with every commit, and the bosses respawn at midnight. Built with GitHub Actions.</sub>
 
