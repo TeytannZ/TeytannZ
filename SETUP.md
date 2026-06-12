@@ -1,55 +1,66 @@
-# 🎮 RPG Profile — Deployment Guide
+# ⚔️ The Developer Saga — Setup Guide
 
-## 📁 File Structure
+## Quick preview
 
-```
-YourUsername/          ← repo name MUST match your GitHub username exactly
-├── README.md          ← the main profile (paste this at root)
-└── assets/
-    ├── hero_banner.svg      ← Dark Abyss (animated hero + pixel character)
-    ├── forest_banner.svg    ← Enchanted Forest (About Me header)
-    ├── lava_banner.svg      ← Lava Citadel (Tech Stack header)
-    ├── tundra_banner.svg    ← Frozen Tundra (Stats header)
-    ├── sky_banner.svg       ← Sky Realm (Quotes header)
-    ├── crypt_banner.svg     ← Haunted Crypt (Games header)
-    ├── gold_banner.svg      ← Golden Hall (Achievements header)
-    └── moon_banner.svg      ← Moonlit Village (Contact header)
-```
+**Double-click `preview.html`** in this folder to see the entire profile rendered in your browser
+(it uses a real GitHub account's data as a stand-in so every card shows real numbers).
 
-## ⚡ Quick Deploy Steps
+---
 
-1. Go to **github.com** → click the **+** → **New repository**
-2. Name it **exactly** your GitHub username (e.g. `TeytannZ`)
-3. Check ✓ "Initialize this repository" → click **Create repository**
-4. Upload all files above (README.md + the entire `assets/` folder)
-5. Done — your profile updates instantly! 🎉
+## Step 1 — Create your profile repository
 
-## 🔧 What Works & Why
+1. GitHub → **+** → **New repository**
+2. Name it **exactly your username** (username `ahmed` → repo `ahmed/ahmed`)
+3. **Public** · check **"Add a README file"** → Create
 
-| Feature | How it works |
+## Step 2 — Replace the placeholders in README.md
+
+| Placeholder | Replace with |
 |---|---|
-| Animated banners | SVG files with `<foreignObject>` + CSS `@keyframes` — GitHub renders CSS animations inside SVGs |
-| Pixel character | Drawn entirely with CSS divs inside the hero SVG |
-| Stats widgets | External image URLs from github-readme-stats (already in your old README) |
-| Pac-Man & Snake | SVG animations hosted by abozanona/platane repos (same as before) |
-| Trophies | github-profile-trophy widget (same as before) |
-| Badge icons | shields.io badges — work natively in GitHub markdown |
-| Light/Dark mode | The `<picture>` element with `prefers-color-scheme` handles Pac-Man & Snake |
-| Profile views | komarev.com counter badge (same as before) |
+| `YOUR_NAME` | Your display name (appears in the banner) |
+| `YOUR_USERNAME` | Your GitHub username — used in ~20 widget URLs, replace ALL |
+| `YOUR_EMAIL@gmail.com` | Your email |
+| `YOUR_DISCORD_ID` | Your numeric Discord user ID (Discord → Settings → Advanced → Developer Mode ON, then right-click your name → Copy User ID) |
+| `YOUR_PORTFOLIO_URL` | Portfolio link — or delete that badge |
+| `YOUR_REPO_1`, `YOUR_REPO_2` | Names of two repos to feature as "Completed Quests" |
 
-## ⚠️ GitHub Limitations (why this approach)
+Tip: open README.md in VS Code → `Ctrl+H` → Replace All for each one. Takes 2 minutes.
 
-GitHub **strips** `<style>`, `<script>`, and most `style=` attributes directly in README.md.
-The workaround: **SVG files** referenced via `<img>` tags CAN contain their own `<style>` blocks
-with full CSS animations. This is a well-known, widely-used technique (used by thousands of profiles).
+## Step 3 — Upload everything
 
-**What won't work on GitHub that worked in the standalone HTML:**
-- JavaScript (no hover interactions, no counter animations)
-- Scroll-triggered reveals
-- Click/hover states on cards
+Upload `README.md` + the whole `.github/workflows/` folder (4 files) to your profile repo.
 
-**What DOES work:**
-- All CSS animations inside SVGs (starfields, fireflies, embers, snowflakes, shooting stars, glowing titles, floating particles, the pixel character idle animation, the XP bar shine)
-- All external widget images
-- All badge icons
-- The full RPG visual identity across all 8 dimensions
+## Step 4 — Enable Actions permissions
+
+Repo **Settings** → **Actions** → **General** → Workflow permissions →
+**"Read and write permissions"** → Save.
+
+No personal access tokens needed — all 4 workflows run on the default `GITHUB_TOKEN`.
+
+## Step 5 — Run the 4 workflows once
+
+**Actions** tab → select each → **Run workflow**:
+
+| Workflow | What it creates | Where |
+|---|---|---|
+| Generate Contribution Snake | Snake animation SVGs | `output` branch |
+| Generate Pac-Man Contribution Graph | Pac-Man animation SVGs | `output-pacman` branch |
+| Generate 3D Contribution Calendar | 3D calendar SVG | `main` / `profile-3d-contrib/` |
+| Update Hadith of the Day | Today's hadith into README | `main` |
+
+After all 4 finish, every image on your profile is live. They re-run automatically every day.
+
+## Step 6 — Activate the live widgets (5 minutes total)
+
+**🐾 GitAnimals pets** — visit [gitanimals.org](https://gitanimals.org), sign in with GitHub once.
+Pets hatch automatically (~1 per 30 contributions) and level up as you commit.
+
+**📡 Live Discord presence (Lanyard)** — join the Lanyard Discord server once: [discord.gg/lanyard](https://discord.gg/lanyard).
+That's the whole setup — the card then shows your live Discord status, what you're playing, even Spotify.
+
+## Notes
+
+- The hadith rotates daily at 4 AM UTC — 30 authentic hadiths from Sahih al-Bukhari & Sahih Muslim, each with source cited.
+- Stats cards on a brand-new account show small numbers — they grow with you. The design doesn't depend on big numbers.
+- Every external service used was health-checked and is free with no token required.
+- Dropped on purpose: github-profile-trophy (now behind a paywall — returns HTTP 402) and moe-counter (blocks GitHub's image proxy).
