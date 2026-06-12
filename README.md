@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:8B0000,75:E94560,100:FFD700&height=230&section=header&text=YOUR_NAME&fontSize=64&fontColor=FFD700&animation=twinkling&fontAlignY=36&desc=⚔️%20THE%20DEVELOPER%20SAGA%20⚔️&descSize=20&descColor=E94560&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:8B0000,75:E94560,100:FFD700&height=230&section=header&text=TeytannZ&fontSize=64&fontColor=FFD700&animation=twinkling&fontAlignY=36&desc=⚔️%20THE%20DEVELOPER%20SAGA%20⚔️&descSize=20&descColor=E94560&descAlignY=58" width="100%"/>
 
 <img src="https://svg-banners.vercel.app/api?type=glitch&text1=PRESS%20START&width=835&height=160"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2600&pause=800&color=FFD700&center=true&vCenter=true&width=900&height=60&lines=INSERT+COIN+TO+CONTINUE...;PLAYER+1%3A+YOUR_NAME;CLASS%3A+FULL-STACK+APPRENTICE;MAIN+QUEST%3A+FIRST+DEV+JOB;WEAPONS%3A+JS+%E2%80%A2+TS+%E2%80%A2+REACT+%E2%80%A2+NODE;STATUS%3A+GRINDING+XP+DAILY)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2600&pause=800&color=FFD700&center=true&vCenter=true&width=900&height=60&lines=INSERT+COIN+TO+CONTINUE...;PLAYER+1%3A+TeytannZ;CLASS%3A+FULL-STACK+APPRENTICE;MAIN+QUEST%3A+FIRST+DEV+JOB;WEAPONS%3A+JS+%E2%80%A2+TS+%E2%80%A2+REACT+%E2%80%A2+NODE;STATUS%3A+GRINDING+XP+DAILY)](https://github.com/TeytannZ)
 
 <br/>
 
@@ -24,9 +24,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=ADVENTURERS+VISITED&color=FFD700&style=for-the-badge" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=TeytannZ&label=ADVENTURERS+VISITED&color=FFD700&style=for-the-badge" alt="visitors"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=PARTY+MEMBERS&style=for-the-badge&color=E94560&labelColor=0D1117&logo=github&logoColor=FFD700" alt="followers"/>
+<img src="https://img.shields.io/github/followers/TeytannZ?label=PARTY+MEMBERS&style=for-the-badge&color=E94560&labelColor=0D1117&logo=github&logoColor=FFD700" alt="followers"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 ```text
 ╔═══════════════ CHARACTER SHEET ═══════════════╗
 ║                                               ║
-║   PLAYER ......... YOUR_NAME                  ║
+║   PLAYER ......... TeytannZ                   ║
 ║   CLASS .......... Full-Stack Apprentice      ║
 ║   GUILD .......... CS — Software Eng & IS     ║
 ║   SPAWN POINT .... The Graduation Gate        ║
@@ -99,11 +99,11 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&bg_color=0D1117&title_color=FFD700&icon_color=E94560&text_color=C9D1D9&hide_border=true" width="49%"/>
+<a href="https://github.com/TeytannZ/YOUR_REPO_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeytannZ&repo=YOUR_REPO_1&bg_color=0D1117&title_color=FFD700&icon_color=E94560&text_color=C9D1D9&hide_border=true" width="49%"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&bg_color=0D1117&title_color=FFD700&icon_color=E94560&text_color=C9D1D9&hide_border=true" width="49%"/>
+<a href="https://github.com/TeytannZ/YOUR_REPO_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeytannZ&repo=YOUR_REPO_2&bg_color=0D1117&title_color=FFD700&icon_color=E94560&text_color=C9D1D9&hide_border=true" width="49%"/>
 </a>
 
 </div>
@@ -161,23 +161,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=E94560&text_color=C9D1D9&ring_color=FFD700&custom_title=⚔️%20COMBAT%20RECORD" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&custom_title=🗡️%20WEAPON%20USAGE" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TeytannZ&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=E94560&text_color=C9D1D9&ring_color=FFD700&custom_title=⚔️%20COMBAT%20RECORD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeytannZ&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&custom_title=🗡️%20WEAPON%20USAGE" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=FFD700&fire=E94560&currStreakNum=FFD700&currStreakLabel=E94560&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=TeytannZ&hide_border=true&background=0D1117&ring=FFD700&fire=E94560&currStreakNum=FFD700&currStreakLabel=E94560&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=gruvbox" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeytannZ&theme=gruvbox" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=gruvbox&utcOffset=1" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=gruvbox" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TeytannZ&theme=gruvbox&utcOffset=1" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeytannZ&theme=gruvbox" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FFD700&line=E94560&point=FFD700&area=true&area_color=E94560&hide_border=true&custom_title=⚡%20POWER%20LEVEL%20TIMELINE%20⚡" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeytannZ&bg_color=0D1117&color=FFD700&line=E94560&point=FFD700&area=true&area_color=E94560&hide_border=true&custom_title=⚡%20POWER%20LEVEL%20TIMELINE%20⚡" width="100%"/>
 
 </div>
 
@@ -198,12 +198,12 @@
 
 <br/>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YOUR_USERNAME&utm_content=line">
-<img src="https://render.gitanimals.org/lines/YOUR_USERNAME" width="100%" height="120" alt="gitanimals line"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=TeytannZ&utm_content=line">
+<img src="https://render.gitanimals.org/lines/TeytannZ" width="100%" height="120" alt="gitanimals line"/>
 </a>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YOUR_USERNAME&utm_content=farm">
-<img src="https://render.gitanimals.org/farms/YOUR_USERNAME" width="600" alt="gitanimals farm"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=TeytannZ&utm_content=farm">
+<img src="https://render.gitanimals.org/farms/TeytannZ" width="600" alt="gitanimals farm"/>
 </a>
 
 <sub>🐾 powered by <a href="https://gitanimals.org">GitAnimals</a> — the farm grows as the commit graph grows</sub>
@@ -225,22 +225,22 @@
 
 ### 🧊 THE OVERWORLD — *contributions in 3D*
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar"/>
+<img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar"/>
 
 ### 👾 BOSS FIGHT: PAC-MAN *vs* THE COMMIT GRID
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output-pacman/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output-pacman/pacman-contribution-graph.svg"/>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output-pacman/pacman-contribution-graph-dark.svg" width="100%" alt="pacman eating contributions"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output-pacman/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output-pacman/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output-pacman/pacman-contribution-graph-dark.svg" width="100%" alt="pacman eating contributions"/>
 </picture>
 
 ### 🐍 BOSS FIGHT: THE SERPENT *vs* THE COMMIT GRID
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/TeytannZ/TeytannZ/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions"/>
 </picture>
 
 </div>
@@ -339,17 +339,17 @@
 <div align="center">
 
 <!-- LIVE Discord presence — see SETUP.md step 6 (requires joining discord.gg/lanyard once) -->
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0D1117&borderRadius=12px&animated=true&idleMessage=Probably%20grinding%20XP%20offline..." alt="live discord presence"/>
+<a href="https://discord.com/users/TeytannZ">
+<img src="https://lanyard.cnrad.dev/api/TeytannZ?theme=dark&bg=0D1117&borderRadius=12px&animated=true&idleMessage=Probably%20grinding%20XP%20offline..." alt="live discord presence"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
+<a href="https://github.com/TeytannZ"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=E94560"/></a>
+<a href="mailto:TeytannZ@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=E94560"/></a>
 &nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
+<a href="https://discord.com/users/TeytannZ"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
 &nbsp;
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=FFD700"/></a>
 
@@ -365,7 +365,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=900&color=E94560&center=true&vCenter=true&width=900&height=50&lines=GAME+OVER%3F+...+NAH+%E2%80%94+RESPAWNING+TOMORROW;NEW+GAME%2B+STARTS+AT+SUNRISE;%E2%AD%90+INSERT+STAR+TO+CONTINUE+%E2%AD%90)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=900&color=E94560&center=true&vCenter=true&width=900&height=50&lines=GAME+OVER%3F+...+NAH+%E2%80%94+RESPAWNING+TOMORROW;NEW+GAME%2B+STARTS+AT+SUNRISE;%E2%AD%90+INSERT+STAR+TO+CONTINUE+%E2%AD%90)](https://github.com/TeytannZ)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,25:E94560,60:8B0000,100:0D1117&height=160&section=footer&text=GG%20·%20SEE%20YOU%20IN%20THE%20NEXT%20COMMIT&fontSize=28&fontColor=FFD700&fontAlignY=72" width="100%"/>
 
