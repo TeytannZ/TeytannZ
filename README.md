@@ -36,7 +36,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/TeytannZ/TeytannZ@main/assets/hadith-top.svg" width="360" />
 
-### ﴾ أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ ﴾
+### " أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ "
 
 *"The most beloved deeds to Allah are those done consistently, even if they are few."*
 
