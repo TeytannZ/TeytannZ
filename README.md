@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-v3.svg" width="100%" alt="Teytann banner" />
+<img src="https://cdn.jsdelivr.net/gh/TeytannZ/TeytannZ@main/assets/banner-v6.svg" width="100%" alt="Teytann banner" />
 
 <br><br>
 
@@ -8,13 +8,13 @@
 
 <br><br>
 
-### ⚔️ Loadout
+### ⚔️ Arsenal
 
-**Equipped**
+**Core**
 
 <img height="44" src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,godot" />
 
-**Inventory** *(picked up along the way)*
+**Expanding**
 
 <img height="44" src="https://skillicons.dev/icons?i=react,nodejs,ts,tailwind,postgresql" />
 
@@ -32,23 +32,17 @@
 
 <br><br>
 
-### 📖 Hadith of the Day
-
-<sub>Authentic narrations from Sahih al-Bukhari & Sahih Muslim only · rotated daily by GitHub Actions</sub>
-
 <!-- HADITH_START -->
 
-<sup>📜 Sahih al-Bukhari 6465 · Sahih Muslim 783</sup>
-
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/TeytannZ/TeytannZ@main/assets/hadith-top.svg" width="360" />
 
 ### ﴾ أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ ﴾
 
-<br>
-
 *"The most beloved deeds to Allah are those done consistently, even if they are few."*
 
-**— Prophet Muhammad ﷺ**
+<sub>Sahih al-Bukhari 6465 · Sahih Muslim 783</sub>
+
+<img src="https://cdn.jsdelivr.net/gh/TeytannZ/TeytannZ@main/assets/hadith-bottom.svg" width="360" />
 
 <!-- HADITH_END -->
 
